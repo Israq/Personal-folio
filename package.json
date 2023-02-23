@@ -1,13 +1,16 @@
 {
   "name": "simplefolio",
+  "homepage": "https://Israq.github.io/Personal-folio",
   "version": "1.0.1",
   "private": "true",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "source": "src/index.html",
+  
   "scripts": {
     "start": "parcel",
     "build": "parcel build"
   },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cobidev/simplefolio"
@@ -18,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/cobidev/simplefolio/issues"
   },
-  "homepage": "https://github.com/cobidev/simplefolio#readme",
+  
   "devDependencies": {
     "@parcel/transformer-sass": "^2.7.0",
     "parcel": "^2.7.0",
